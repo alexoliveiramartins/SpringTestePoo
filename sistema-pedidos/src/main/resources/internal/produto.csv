@@ -1,0 +1,21 @@
+idProduto,nome,descricao,preco,estoque
+1,Celular,Smartphone com tela de 6.5 polegadas,1500,100
+2,Notebook,Notebook com processador Intel Core i5,2500,50
+3,TV,TV LED de 50 polegadas,1000,20
+4,Fones de ouvido,Fones de ouvido Bluetooth com cancelamento de ruído,200,150
+5,Câmera,Câmera digital com resolução de 20 megapixels,500,30
+6,Relógio,Relógio inteligente com GPS e monitoramento de atividades,300,100
+7,Tablet,Tablet com tela de 10 polegadas,800,40
+8,Impressora,Impressora multifuncional a jato de tinta,500,50
+9,Mouse,Mouse sem fio com sensor óptico,100,200
+10,Teclado,Teclado mecânico com iluminação RGB,200,100
+11,Monitor,Monitor LED de 24 polegadas,500,10
+12,Webcam,Webcam HD com microfone integrado,100,150
+13,Pen drive,Pen drive de 32 GB com interface USB 3.0,50,100
+14,Cabo USB,Cabo USB tipo C para transferência de dados e carregamento,20,500
+15,Cartão de memoria,Cartão de memória microSDXC de 128 GB,100,100
+16,Carregador de celular,Carregador de celular rápido com tecnologia Qualcomm Quick Charge 3.0,50,200
+17,Bateria externa,Bateria externa portátil com capacidade de 10000 mAh,150,100
+18,Adaptador de tomada,Adaptador de tomada para viagens internacionais,20,100
+19,Caixa de som,Caixa de som Bluetooth com alto-falantes de alta qualidade,200,50
+20,Ventilador,Ventilador de mesa com controle remoto,100,100

@@ -1,0 +1,21 @@
+idCliente,nome,email,endereco,telefone,userName,passwd
+1,João Silva,joao.silva@email.com,Rua A, 123, JoaoSilva,1234
+2,Maria Santos,maria.santos@email.com,Rua B, 456, MariaSantos,5678
+3,Pedro Rodrigues,pedro.rodrigues@email.com,Rua C, 789, PedroRodrigues,9012
+4,Ana Oliveira,ana.oliveira@email.com,Rua D, 1011, AnaOliveira,1112
+5,Carlos Ferreira,carlos.ferreira@email.com,Rua E, 1213, CarlosFerreira,1314
+6,Bruna Almeida,bruna.almeida@email.com,Rua F, 1415, BrunaAlmeida,1516
+7,Lucas Pereira,lucas.pereira@email.com,Rua G, 1617, LucasPereira,1718
+8,Fernanda Costa,fernanda.costa@email.com,Rua H, 1819, FernandaCosta,1920
+9,Gustavo Gomes,gustavo.gomes@email.com,Rua I, 2021, GustavoGomes,2122
+10,Gabriela Souza,gabriela.souza@email.com,Rua J, 2223, GabrielaSouza,2324
+11,Rafael Santos,rafael.santos@email.com,Rua K, 2425, RafaelSantos,2526
+12,Isabela Alves,isabela.alves@email.com,Rua L, 2627, IsabelaAlves,2728
+13,Daniel Rodrigues,daniel.rodrigues@email.com,Rua M, 2829, DanielRodrigues,2930
+14,Amanda Oliveira,amanda.oliveira@email.com,Rua N, 3031, AmandaOliveira,3132
+15,Ricardo Ferreira,ricardo.ferreira@email.com,Rua O, 3233, RicardoFerreira,3334
+16,Juliana Almeida,juliana.almeida@email.com,Rua P, 3435, JulianaAlmeida,3536
+17,Thiago Pereira,thiago.pereira@email.com,Rua Q, 3637, ThiagoPereira,3738
+18,Camila Costa,camila.costa@email.com,Rua R, 3839, CamilaCosta,3940
+19,Felipe Gomes,felipe.gomes@email.com,Rua S, 4041, FelipeGomes,4142
+20,Larissa Souza,larissa.souza@email.com,Rua T, 4243, LarissaSouza,4344
